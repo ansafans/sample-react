@@ -1,7 +1,5 @@
-.todo-create-container{
+.todo-form-container{
+    margin-top:15px;
     border:1px solid gainsboro;
-    background: green;
-    border-radius: 5px;
-    margin: 10px 0px;
     padding: 15px;
 }
